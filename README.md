@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!
+I am Anirudh Salgundi, a researcher in Astrophysics.
+
 
 
 <picture>
